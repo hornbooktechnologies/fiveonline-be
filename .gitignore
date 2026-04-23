@@ -8,5 +8,4 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 postman_collection.json
-database*
 scratch*
